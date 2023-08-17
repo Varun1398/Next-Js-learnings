@@ -1,22 +1,109 @@
 {
-  "news":[{
+  "events": [
+  {
     "id": 1,
-    "title": "News Article 1",
+    "title": "Event 1",
     "category": "sports",
-    "description": "Description 1"
+    "description": "Description 1",
+    "data": "April 25"
   },
   {
     "id": 2,
-    "title": "News Article 2",
-    "category": "weather",
-    "description": "Description 2"
+    "title": "Event 2",
+    "category": "Technology",
+    "description": "Description 2",
+    "data": "May 25"
+
   },
   {
     "id": 3,
-    "title": "News Article 3",
-    "category": "politics",
-    "description": "Description 3"
-  }],
+    "title": "Event 3",
+    "category": "Food",
+    "description": "Description 3",
+    "data": "June 25"
+
+  },
+  {
+    "id": 4,
+    "title": "Event 4",
+    "category": "sports",
+    "description": "Description 4",
+    "data": "April 25"
+  },
+  {
+    "id": 5,
+    "title": "Event 5",
+    "category": "Technology",
+    "description": "Description 5",
+    "data": "May 25"
+
+  },
+  {
+    "id": 6,
+    "title": "Event 6",
+    "category": "Food",
+    "description": "Description 6",
+    "data": "June 25"
+
+  },
+  {
+    "id": 7,
+    "title": "Event 7",
+    "category": "sports",
+    "description": "Description 7",
+    "data": "April 25"
+  },
+  {
+    "id": 8,
+    "title": "Event 8",
+    "category": "Technology",
+    "description": "Description 8",
+    "data": "May 25"
+
+  },
+  {
+    "id": 9,
+    "title": "Event 9",
+    "category": "Food",
+    "description": "Description 9",
+    "data": "June 25"
+
+  },
+  {
+    "id": 10,
+    "title": "Event 10",
+    "category": "Food",
+    "description": "Description 10",
+    "data": "June 25"
+
+  }
+],
+  "dashboard": {
+    "posts": 15,
+    "likes": 200,
+    "followers": 20,
+    "following": 50
+  },
+  "news": [
+    {
+      "id": 1,
+      "title": "News Article 1",
+      "category": "sports",
+      "description": "Description 1"
+    },
+    {
+      "id": 2,
+      "title": "News Article 2",
+      "category": "weather",
+      "description": "Description 2"
+    },
+    {
+      "id": 3,
+      "title": "News Article 3",
+      "category": "politics",
+      "description": "Description 3"
+    }
+  ],
   "products": [
     {
       "id": 1,
